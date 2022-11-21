@@ -1,4 +1,3 @@
-# IBM-Project-4813-1658740587
 # Retail Store Stock inventory Analytics
 ## Final Deliverables
  - [Collecting data from external API](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/Sprint1/Retail_Store_stock_inventory_analytics_PNT2022TMID01375.ipynb)
