@@ -1,15 +1,7 @@
 # IBM-Project-4813-1658740587
-Retail Store Stock Inventory Analytics
-
 # Retail Store Stock inventory Analytics
 
-
-
-
-
-
 ## Demo link [Click here](https://drive.google.com/file/d/16Ja8gMbyb_SxtMcoOSmBzb92PxQ4pZ6M/view?usp=sharing)
-
 
 ## Final Deliverables
 
