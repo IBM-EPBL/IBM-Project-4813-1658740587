@@ -5,7 +5,7 @@
  - [Dataset](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/tree/main/Final%20Deliverables/Dataset)
  - [Data from DB2](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/Sprint1/updated-PNT2022TMID01375-Sprint1.pdf)
  - [Data Preparation](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/Sprint1/updated-PNT2022TMID01375-Sprint1.pdf)
- - [Data visualzation charts](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/sprint2/PNT2022TMID01375_sprint2.pdf)
+ - [Data visualization charts](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/sprint2/PNT2022TMID01375_sprint2.pdf)
  - [Dashboard](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/sprint3/PNT2022TMID01375_Sprint3.pdf)
  - [Report and Story](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/sprint4/PNT2022TMID01375_sprint4.pdf)
  - [Embed with webpage](https://github.com/IBM-EPBL/IBM-Project-4813-1658740587/blob/main/Project%20development%20phase/sprint3/PNT2022TMID01375_Sprint3.pdf)
